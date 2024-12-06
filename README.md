@@ -12,8 +12,6 @@ Clone the repository or download the ZIP file from the following Git link:
 
 Ensure your project has the following folder structure:
 
-![Folder Structure](static/folder_structure.jpg)
-
 ## Step 3: Open and Run the Notebook
 
 1. Open the `sourcecode.ipynb` file from the `notebooks` folder.
@@ -36,8 +34,6 @@ After executing `sourcecode.ipynb`, the `model.joblib` file will be created insi
 7. You can now see the user interface for entering the requested data. After inputting the data, click "Submit" to predict the output using the pre-trained model `model.joblib`.
 8. Once you finish. `Ctrl` + `C` on the terminal to stop the application `app.py`.
 
-![VScode terminal](static/vscode_terminal.jpg)
-
 ### Using Command Prompt or PowerShell
 
 1. Open the Command Prompt or PowerShell from the project folder.
@@ -48,7 +44,6 @@ After executing `sourcecode.ipynb`, the `model.joblib` file will be created insi
 4. After running the command, a local connection link for the webpage will be displayed. Click on the link to open the webpage in your default browser or copy and paste it your desired browser. Input your data, and the output will be predicted using the pre-trained model.
 5. Once done `Ctrl` + `C` on the terminal to stop the application `app.py`.
 
-![Command prompt terminal](static/command_prompt_terminal.jpg)
 
 ## Sample data for testing
 
